@@ -52,11 +52,12 @@ iframe#tela{
     width:267px ;
     height: 469px ;  
     margin-left: 20px;
+    background-attachment: fixed;
 }
 
 section#redes-sociais{
-
-    
+text-align: right;
+    background-attachment: fixed;
 }
 
 section#redes-sociais img{
