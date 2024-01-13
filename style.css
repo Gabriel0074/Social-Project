@@ -56,7 +56,9 @@ iframe#tela{
 }
 
 section#redes-sociais{
-text-align: right;
+    width: 100vw;
+    height: 100vh;
+    text-align: right;
     background-attachment: fixed;
 }
 
@@ -67,7 +69,6 @@ section#redes-sociais img{
     box-shadow: 3px 3px 5px black;
     margin: 10px;
     display:inline-block;
-
     
 }
 
